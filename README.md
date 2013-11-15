@@ -11,6 +11,8 @@ ToDos
 	1. PHP
 	1. Javascript
 	1. Node.js
+	1. MySQL
+		1. Mysql Setup from contest page. PHP w/ Ajax to submit. Good example of error handling and validation.
 	1. SysAdmin
 	1. Unix/Linux
 	1. Vim
